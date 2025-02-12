@@ -1,6 +1,6 @@
 # Relogio-Digital
 
-![Relogio-Digital](./img/layout.png)
+![Relogio-Digital](./Relogio-Digital/img/layout.png)
 
 ## 🚀 Tecnologias
 
